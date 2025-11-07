@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Art by Prabhleen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Art by Prabhleen</h1>
+    <p>Colorful, expressive, and soulful paintings</p>
+  </header>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Gallery</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+  </nav>
+  <section class="gallery">
+    <img src="painting1.jpg" alt="Painting 1" />
+    <img src="painting2.jpg" alt="Painting 2" />
+    <img src="painting3.jpg" alt="Painting 3" />
+  </section>
+  <footer>
+    &copy; 2025 Art by Prabhleen
+  </footer>
+</body>
+</html>
